@@ -40,7 +40,7 @@
     <!-- Healthcare RAG -->
     <td width="50%" valign="top">
       <a href="https://github.com/orvillelim/Healthcare-RAG">
-        <img src="https://private-user-images.githubusercontent.com/14125451/614887503-50bb42dd-48b7-409f-ae0c-46c437dc186f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyODcwMzIsIm5iZiI6MTc5NDI4NjczMiwicGF0aCI6Ii8xNDEyNTQ1MS82MTQ4ODc1MDMtNTBiYjQyZGQtNDhiNy00MDlmLWFlMGMtNDZjNDM3ZGMxODZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTEwVDA0NTg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwNWYyYWU5MTkyMDAwZjhjM2ZiN2IzYWRmNmU3MzZiMmE5NzgwOWE2ZGQxZjEwODJmNWM2OWZiZjViZGYwMzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.GLBTe05Uy2gwH-4fZolJWS2-ITZZ1LL3Li-p65JNf1Q" alt="Healthcare RAG system screenshot" width="100%"/>
+        <img src="./assets/healthcare-rag.png" alt="Healthcare RAG system screenshot" width="100%"/>
       </a>
       <h3>🩺 Healthcare RAG Assistant</h3>
       <p>
@@ -103,7 +103,7 @@
     <!-- TLS Article -->
     <td width="50%" valign="top">
       <a href="https://medium.com/@orville.lim95">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*1tRL4jVr19I71P3E" alt="Medium article cover" width="100%"/>
+        <img src="./assets/tls-article.jpg" alt="Medium article cover" width="100%"/>
       </a>
       <h3>✍️ Learn to Create a Free TLS Certificate in 5 Minutes</h3>
       <p>My first technical article: a quick, practical guide to setting up free TLS certificates.</p>
