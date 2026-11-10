@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi, I'm Orville 👋</h1>
-<h3 align="center">AI Engineer · Senior Software Engineer · AI-Native Builder</h3>
+<h3 align="center"> Polymath · Senior Software Engineer · AI-Native Builder</h3>
 <p align="center">
   Currently building <b>AI Accounting</b> at <a href="https://manuci.com">Manuci.com</a> 🇵🇭<br/>
   9+ years shipping full-stack products, 4+ years leading engineering teams.
@@ -102,12 +102,12 @@
     </td>
     <!-- TLS Article -->
     <td width="50%" valign="top">
-      <a href="https://medium.com/@YOUR_MEDIUM">
-        <img src="./assets/tls-article.png" alt="Medium article cover" width="100%"/>
+      <a href="https://medium.com/@orville.lim95">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*1tRL4jVr19I71P3E" alt="Medium article cover" width="100%"/>
       </a>
       <h3>✍️ Learn to Create a Free TLS Certificate in 5 Minutes</h3>
       <p>My first technical article: a quick, practical guide to setting up free TLS certificates.</p>
-      <a href="https://medium.com/@YOUR_MEDIUM"><b>Read on Medium →</b></a>
+      <a href="https://medium.com/@orville.lim95"><b>Read on Medium →</b></a>
     </td>
   </tr>
 </table>
