@@ -111,3 +111,49 @@
     </td>
   </tr>
 </table>
+
+
+# Game DEV
+
+<!-- ===================== INDIE GAMES ===================== -->
+<table>
+  <tr>
+    <!-- Ninja Warrior -->
+    <td width="40%" valign="top" align="center">
+      <img src="./assets/ninja-warrior-demo.gif" alt="Ninja Warrior gameplay demo" width="100%"/>
+    </td>
+    <td width="60%" valign="top">
+      <h3>🥷 Ninja Warrior (Demo)</h3>
+      <p>
+        A 3D melee action game where you duel an armored boss in a futuristic arena.
+      </p>
+      <ul>
+        <li>4-hit sword combos, plus a charged dash-cut</li>
+        <li>Rolls, parries and blocks for defense</li>
+        <li>Jump attacks: 2 cuts in the air, then a plunge</li>
+        <li>Boss AI with adjustable difficulty</li>
+        <li>Plays with keyboard and mouse or a controller</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<!-- Outbreak: City Zero -->
+<table>
+  <tr>
+    <td width="60%" valign="top" align="center">
+      <img src="./assets/outbreak-city-zero.gif" alt="Outbreak: City Zero gameplay demo" width="100%"/>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🦠 Outbreak: City Zero (Demo)</h3>
+      <p>
+        A city outbreak sim where you play as the infection, spreading through a city of 200 people while the government researches a cure.
+      </p>
+      <ul>
+        <li>Pick anyone in the city, then infect or follow them</li>
+        <li>Each person has symptoms, sickness and a stress score</li>
+        <li>A live "City Signal" news feed of events like crowds, politics and weather</li>
+        <li>Tracks government awareness and cure progress</li>
+      </ul>
+    </td>
+  </tr>
+</table>
